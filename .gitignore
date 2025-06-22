@@ -1,0 +1,13 @@
+.env
+venv
+docker-compose.yml
+mqtt.py
+test.py
+training.py
+structured_dummy_dataset
+prisma
+__pycache__
+isolation_forest_model
+isolation
+isolation_forest
+data_with_anomaly
