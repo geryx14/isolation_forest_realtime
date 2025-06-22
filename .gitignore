@@ -4,10 +4,10 @@ docker-compose.yml
 mqtt.py
 test.py
 training.py
-structured_dummy_dataset
+structured_dummy_dataset.csv
 prisma
 __pycache__
-isolation_forest_model
-isolation
-isolation_forest
-data_with_anomaly
+isolation_forest_model.pkl
+isolation.pkl
+isolation_forest.pkl
+data_with_anomaly.csv
